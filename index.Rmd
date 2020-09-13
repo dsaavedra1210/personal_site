@@ -1,5 +1,66 @@
----
-title: "Armando's Website"
----
 
-Hello, World!
+```{css, echo=FALSE}
+.fluid.row.title{
+  font-size: 3.9vw
+}
+h1{
+  font-size:2.9vw;
+  margin-top: 30px!important;
+  margin-bottom: 15px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+  font-weight: bold;
+  border-bottom: solid 1px black;
+}
+
+h2{
+  margin-top: 30px!important;
+  margin-bottom: 15px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+  font-size: 22px;
+  font-weight: bold
+}
+p{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  
+}
+  
+
+```
+
+
+# Welcome
+
+
+<div class = "row">
+  
+<div class = "col-lg-3">
+<div align="center"><img src="photo.jpg" width="150px"></div>
+<p align="center">
+"Master in Science"
+<br>
+"Information Science"
+<br>
+"University of Arizona"
+</p>
+
+</div>
+  
+  
+<div class = "col-lg-9">
+<br><br>I am a data scientist and economist with a master in information science from the Unitversity of Arizona and a bachellor degree in economics from the Catholic University of Colombia South America.
+</div>
+
+</div>
+
+
+
+
+
+
+

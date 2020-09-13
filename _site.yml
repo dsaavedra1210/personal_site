@@ -1,10 +1,28 @@
-
-name: "Armando-website"
+name: "Armando Saavedra"
 output_dir: "."
 navbar:
-  title: "Armando Website"
+  title: "Armando Saavedra"
   left:
     - text: "Home"
       href: index.html
+    - text: "Projects"     ##### the new
+      href: projects.html  ##### stuff
+    - text: "Resume"
+      href: cv_15.pdf
     - text: "About Me"
       href: about.html
+      
+      
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/dsaavedra1210/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/ARMANDOSAA
+    - icon: fa-linkedin fa-lg
+      href: https://linkedin.com/in/armando-saavedra
+output:
+  html_document:
+    theme: cosmo
+   

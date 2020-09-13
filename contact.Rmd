@@ -35,14 +35,14 @@ p{
 ```
 
 
+# Contact Information
 
+I’d love to hear from you, so feel free to reach out:
 
-# About Me
+Cleveland Clinic
+9500 Euclid Ave
+Cleveland, OH 44195
+646-888-8299
+zabore2@ccf.org
 
-- __Name:__ Armando
-- __Ocupation:__ Data Scientist and Economist
-- __Hobbies:__ Learning software development instead of studying for exams. 
-
-Here is a super cool photo of me doing one of my favorite things, yawning. 
-
-![](foto.jpg)
+Or connect with me on GitHub, Twitter, or Linkedin (links in top right).

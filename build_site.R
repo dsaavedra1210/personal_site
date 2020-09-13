@@ -6,3 +6,4 @@ setwd("/Users/dsaav/Documents/Projects/R/website/github.io")
 
 #render your sweet site. 
 rmarkdown::render_site()
+
