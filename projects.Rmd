@@ -39,7 +39,7 @@ p{
 Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
 here's some examples. 
 
-## [Data Visualization in R](http://nickstrayer.me/visualization_in_r/)
+## [Map Data Visualization](https://dsaavedra1210.github.io/mapvisualization/#Visualization/)
 
 - An RMarkdown presentation on the common mistakes made in visualization and how to fix them.
 - Includes a github repo for access to all the code.
